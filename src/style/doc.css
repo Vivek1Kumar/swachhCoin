@@ -1,0 +1,48 @@
+#para {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card img
+{
+    width: 120px;
+    height: 120px;
+    padding:20px 20px 20px 20px;
+    margin-top: 14px;
+   }
+.card
+{
+    border:;
+    height:250px;
+    display: ;
+    grid-template-columns: repeat(auto-fill, 230px);
+    grid-gap: 10px;
+    margin: 0 auto;
+    grid-auto-rows: 300px;
+    width: 100%;
+    justify-content: center;
+}
+.section1
+{
+    background-image: red;
+    padding: 30px 30px 30px 30px;
+    margin-top: 50px;
+}
+#para
+{
+    color: gray;
+    font-size:16px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+.card:hover{
+    box-shadow:2px 2px 2px 2px #c5e8ec;
+}
+.feature span
+{
+    font-size: 30px;
+    font-weight: bold;
+    
+        
+}

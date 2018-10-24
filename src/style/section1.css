@@ -1,0 +1,16 @@
+#first
+{
+
+background-color:#444444; 
+    background-size: cover;
+    background-position: center;
+	height:auto;
+}
+.model h1
+{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+	font-weight: bold;
+}

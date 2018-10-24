@@ -1,0 +1,113 @@
+.navbar-brand
+{
+    
+    height: 70px;
+    padding: 1px 11px;
+    position: relative;
+    top: 40px;
+
+}
+.navbar-brand img
+{
+    
+    height:160px;
+    padding: 15px 11px;
+
+    position: relative;
+    top: -52px;
+
+}
+.navbar-right
+{
+    padding: 2px 0;
+}
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255,102,203);
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+#aleef-logo
+{
+    width: 200px;
+    height: 2000px;
+}
+
+li Link
+{
+    margin: 20PX;
+    color: red;
+}
+.nav-Link 
+{
+    color: #212121;
+    padding-top:17px;
+    font-size:12px;
+    font-weight: 700;
+    font-family: 'Noto Sans KR', sans-serif;
+     color: white;
+
+}
+.navbar
+{
+    background-color:#009270;
+     color: white;
+     font-family: monospace;
+     background-color:hsla(9, 2%, 6%, 0.10);
+   -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 10 7px 6px -6px #a3666e;  
+     
+    
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+li a {
+    display: block;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
+}
+ul li  {
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding:13px;
+    font-family:arial;    
+}
+
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: ;
+    color:black ;
+    text-decoration: none;
+}
+#logo {
+    max-height: 100%!important;
+}
+#logo {
+    margin-top: 15px;
+}
+#logo {
+    display: inline-block;
+    float: none;
+    max-height: 54%;
+    margin-bottom: 0;
+    vertical-align: middle;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    -webkit-transform: translate3d(0,0,0);
+}

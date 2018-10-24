@@ -1,0 +1,15 @@
+#profile
+{
+	background-image: url("https://d2d3qesrx8xj6s.cloudfront.net/img/screenshots/nofeat-f07fb47177349b859119a944386b085dc8987745.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	height:900px;
+}
+.image img
+{
+    width: %;
+    height: 800px;
+    margin-top: 60px;
+}
+

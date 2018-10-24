@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2913 4598 1692 1280">
+    <defs>
+        <style>
+        .cls-1 {
+            clip-path: url(#clip-Artboard_2)
+        }
+
+        .cls-2 {
+            fill: #12f59d
+        }
+
+        .cls-3 {
+            fill: #00e6b6
+        }
+
+        .cls-4 {
+            fill: #00dbb3
+        }
+
+        .cls-5,
+        .cls-8 {
+            fill: none
+        }
+
+        .cls-6 {
+            fill: #00d1a2
+        }
+
+        .cls-7 {
+            fill: #1bc684
+        }
+
+        .cls-8 {
+            stroke: #95989a;
+            stroke-miterlimit: 10;
+            stroke-width: 3px
+        }
+
+        .cls-9 {
+            fill: #95989a;
+            font-size: 44px;
+            font-family: SegoeUI, Segoe UI
+        }
+        </style>
+        <clipPath id="clip-Artboard_2">
+            <path d="M2913 4598h1692v1280H2913z" />
+        </clipPath>
+        <filter id="f1" x="0" y="0" width="200%" height="200%">
+            <feOffset result="offOut" in="SourceGraphic" dx="0" dy="0" />
+            <feGaussianBlur result="blurOut" in="offOut" stdDeviation="10" />
+            <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+        </filter>
+    </defs>
+    <g id="Artboard_2" data-name="Artboard –2" class="cls-1">
+        <g id="Group_79" data-name="Group 79" transform="translate(2913.547 4637.197)">
+            <g class="pie" filter="url(#f1)">
+                <path id="Path_227" data-name="Path 227" class="cls-2" d="M651.523 187.3v198.695h.854c139.974 0 253.49 113.516 253.49 253.49s-113.516 253.49-253.49 253.49c-112.833 0-208.425-73.742-241.37-175.65L221.7 778.776c61.793 189.818 230.274 312.21 429.823 312.21 249.564 0 451.843-202.28 451.843-451.843S901.086 187.3 651.523 187.3z" transform="translate(157.129 136.803)" />
+                <path id="Path_228" data-name="Path 228" class="cls-3" d="M408.484 510.174a252.637 252.637 0 0 1 12.29-78.351L231.3 370.2c-30.9 94.909-30.9 184.356 0 279.265l189.3-61.452a255.226 255.226 0 0 1-12.116-77.839z" transform="translate(147.531 266.113)" />
+                <path id="Path_229" data-name="Path 229" class="cls-4" d="M503.014 398.941L385.913 237.8C305.172 296.521 252.6 368.727 221.7 463.636l189.477 61.623a255.273 255.273 0 0 1 91.837-126.318z" transform="translate(157.129 172.506)" />
+                <path id="Path_230" data-name="Path 230" class="cls-6" d="M505.329 389.436L443.877 200.3c-47.455 15.363-85.521 34.823-125.977 64.183L435 425.624a251.959 251.959 0 0 1 70.329-36.188z" transform="translate(225.142 145.994)" />
+                <path id="Path_231" data-name="Path 231" class="cls-7" d="M531.333 385.995V187.3c-49.845 0-92.178 6.657-139.633 22.191l61.452 189.136a251.716 251.716 0 0 1 78.181-12.632z" transform="translate(277.319 136.803)" />
+            </g>
+            <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-5" cx="253.49" cy="253.49" r="253.49" transform="translate(556.016 521.091)" />
+            <path id="Path_232" data-name="Path 232" class="cls-8" d="M375.5 65.7s88.764 126.318 90.471 194.6" transform="translate(265.866 50.831)" />
+            <path id="Path_233" data-name="Path 233" class="cls-8" d="M278 138.2s97.3 22.191 128.025 114.369" transform="translate(196.933 102.089)" />
+            <path id="Path_234" data-name="Path 234" class="cls-8" d="M171 242.577s107.541-13.656 153.63 64.866" transform="translate(121.284 175.241)" />
+            <g id="Group" transform="translate(1281.188 864.373)">
+                <text id="Platform_and_Model" data-name="Platform and Model" class="cls-9" transform="translate(0 47)">
+                    <tspan x="0" y="0">Platform and Model</tspan>
+                </text>
+                <text id="Plant_Development" data-name="Plant Development" class="cls-9" transform="translate(9.218 104.355)">
+                    <tspan x="0" y="0">Plant Development</tspan>
+                </text>
+                <text id="_70_" data-name="70%" class="cls-9" transform="translate(165.067 161.71)">
+                    <tspan x="0" y="0">70%</tspan>
+                </text>
+            </g>
+            <g id="Group-2" data-name="Group" transform="translate(375.722 -6.197)">
+                <text id="Blockchain_Development" data-name="Blockchain Development" class="cls-9" transform="translate(0 47)">
+                    <tspan x="0" y="0">Blockchain Development</tspan>
+                </text>
+                <text id="_70_2" data-name="70%" class="cls-9" transform="translate(215.424 104.355)">
+                    <tspan x="0" y="0">5%</tspan>
+                </text>
+            </g>
+            <g id="Group-3" data-name="Group" transform="translate(240.184 173.038)">
+                <text id="Marketing" class="cls-9" transform="translate(0 47)">
+                    <tspan x="0" y="0">Marketing</tspan>
+                </text>
+                <text id="_70_3" data-name="70%" class="cls-9" transform="translate(62.476 104.355)">
+                    <tspan x="0" y="0">5%</tspan>
+                </text>
+            </g>
+            <g id="Group-4" data-name="Group" transform="translate(96.782 359.101)">
+                <text id="Treasury" class="cls-9" transform="translate(0 47)">
+                    <tspan x="0" y="0">Treasury</tspan>
+                </text>
+                <text id="_70_4" data-name="70%" class="cls-9" transform="translate(43.699 104.355)">
+                    <tspan x="0" y="0">10%</tspan>
+                </text>
+            </g>
+            <g id="Group-5" data-name="Group" transform="translate(-.547 722.692)">
+                <text id="Working_Capital" data-name="Working Capital" class="cls-9" transform="translate(0 47)">
+                    <tspan x="0" y="0">Working Capital</tspan>
+                </text>
+                <text id="_70_5" data-name="70%" class="cls-9" transform="translate(123.928 104.355)">
+                    <tspan x="0" y="0">10%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
